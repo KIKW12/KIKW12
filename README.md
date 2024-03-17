@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! I'm Enrique aka Kikw12 <img src="https://media.tenor.com/S6hx6qhPisQAAAAi/xbox-xbox-one.gif" width="40px" height='40px'> </h1>
+<h1 align="center"> Hello World! I'm Enrique <img src="https://media.tenor.com/S6hx6qhPisQAAAAi/xbox-xbox-one.gif" width="40px" height='40px'> </h1>
 
 <h3 align="left"> 
 
