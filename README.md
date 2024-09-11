@@ -4,7 +4,7 @@
 
   🌐 Founder and Back-End Dev of [CEAMS.co](https://ceams.co)
   <br> 
-  🌐 Personal [Web Page](https://enriqueayalame.co/)
+  🌐 Personal (Under Maintenance) [Web Page](https://enriqueayalame.co/)
 </h3>
 
 ---
@@ -12,7 +12,7 @@
 <h3 align="left">💻 Second Semester Computer Science Student at Tec de Monterrey</h3>
 <p align="left">
 
-<h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Data Science</h3>
+<h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
 <p align="left">
 
 <h3 align="left">📋 Languages:</h3>
