@@ -2,7 +2,7 @@
 
 <h3 align="left"> 
 
-  🌐 Founder and Back-End Dev of [CEAMS.co](https://ceams.co)
+  🌐 Founder and Back-End Dev of [ceams.co](https://ceams.co)
   <br> 
   🌐 Personal (Under Maintenance) [Web Page](https://enriqueayalame.co/)
 </h3>
