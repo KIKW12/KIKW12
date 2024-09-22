@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="left">💻 Second Semester Computer Science Student at Tec de Monterrey</h3>
+<h3 align="left">💻 Third Semester Computer Science Student at Tec de Monterrey</h3>
 <p align="left">
 
 <h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
