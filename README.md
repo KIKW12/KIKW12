@@ -6,7 +6,7 @@
 
   🌐 Founder and Back-End Dev of [ceams.co](https://ceams.co)
   <br> 
-  🌐 Personal (Under Maintenance) [Web Page](https://www.enayala.me/)
+  🌐 Personal (Under Maintenance) [Web Page]()
 </h3>
 
 ---
