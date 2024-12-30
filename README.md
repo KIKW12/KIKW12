@@ -4,14 +4,14 @@
 
 <h3 align="left"> 
 
-  🌐 Founder and Back-End Dev of [ceams.co](https://ceams.co)
+  🌐 Founder and Back-End Dev of [ceams.co]()
   <br> 
   🌐 Personal (Under Maintenance) [Web Page]()
 </h3>
 
 ---
 
-<h3 align="left">💻 Third Semester Computer Science Student at Tec de Monterrey</h3>
+<h3 align="left">💻 Fourth Semester Computer Science Student at Tec de Monterrey</h3>
 
 <h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
 
