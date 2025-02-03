@@ -4,8 +4,6 @@
 
 <h3 align="left"> 
 
-  🌐 Founder and Back-End Dev of [ceams.co]()
-  <br> 
   🌐 Portfolio [Web Page](https://www.enayala.me)
 </h3>
 
