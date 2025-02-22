@@ -3,7 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KIKW12&style=flat-square&color=blue)
 
 <h3 align="left"> 
-  I am the **CTO and Co-founder** of [Neural Harvest](https://your-website.com), where we develop AI-powered solutions for precision agriculture and environmental sustainability.
+  🌱 CTO & Co-Founder @ Nerual Harvest
+  🌐 **[Personal Website](https://www.enayala.me/)**
 </h3>
 
 ---
@@ -63,7 +64,7 @@
 ## 💼 Projects & Highlights
 
 - **[Ceams.co](https://ceams.co)** - A comprehensive platform focusing on effective backend solutions.
-- **[Personal Website](https://www.enayala.me/)** (Under Maintenance) - Showcasing my journey and projects.
+- **[Personal Website](https://www.enayala.me/)** - Showcasing my journey and projects.
 - **[More Projects...](https://github.com/KIKW12?tab=repositories)**
 
 ## 🌐 Connect with Me
