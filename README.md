@@ -4,6 +4,7 @@
 
 <h3 align="left"> 
   🌱 CTO & Co-Founder @ Nerual Harvest
+  
   🌐 **[Personal Website](https://www.enayala.me/)**
 </h3>
 
