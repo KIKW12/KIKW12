@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KIKW12&style=flat-square&color=blue)
 
 <h3 align="left"> 
-🌱 **CTO & Co-Founder** @ [Neural Harvest](https://www.neuralharvest.com)
+  I am the **CTO and Co-founder** of [Neural Harvest](https://your-website.com), where we develop AI-powered solutions for precision agriculture and environmental sustainability.
 </h3>
 
 ---
