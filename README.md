@@ -6,7 +6,7 @@
   
   🌱 **CTO & Co-Founder @ [Nerual Harvest](https://www.neuralharvest.com)**
   
-  🌐 **[Personal Website](https://www.enayala.me/)**
+  🌐 **[Personal Portfolio](https://www.enayala.me/)**
 </h3>
 
 ---
