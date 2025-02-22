@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KIKW12&style=flat-square&color=blue)
 
 <h3 align="left"> 
-
+  🌐 CTO & Co-Founder @ Neural Harvest [Web Page](https://www.neuralharvest.com)
   🌐 Portfolio [Web Page](https://www.enayala.me)
 </h3>
 
