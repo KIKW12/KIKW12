@@ -4,14 +4,14 @@
 
 <h3 align="left"> 
   
-  🌱 **CTO & Co-Founder @ [Nerual Harvest](https://www.neuralharvest.com)**
+  🌱 **CTO & Co-Founder @[Nerual Harvest](https://www.neuralharvest.com)**
   
   🌐 **[Personal Portfolio](https://www.enayala.me/)**
 </h3>
 
 ---
 
-<h3 align="left">💻 Fourth Semester Computer Science Student at Tec de Monterrey</h3>
+<h3 align="left">💻 Fourth Semester Computer Science Student @Tec de Monterrey</h3>
 
 <h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
 
