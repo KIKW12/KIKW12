@@ -67,7 +67,7 @@
 
 ## 💼 Projects & Highlights
 
-- **[Ceams.co](https://ceams.co)** - A comprehensive platform focusing on effective backend solutions.
+- **[Neural Harvest](https://www.neuralharveast.com)** - AI-driven, data-driven decision making application.
 - **[Personal Website](https://www.enayala.me/)** - Showcasing my journey and projects.
 - **[More Projects...](https://github.com/KIKW12?tab=repositories)**
 
