@@ -56,7 +56,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![TLD](https://img.shields.io/badge/TLD-lightgrey?style=for-the-badge&logo=data:image/png;base64&logoColor=white)
+![TLD](https://img.shields.io/badge/TLD-lightgrey?style=for-the-badge&logo=tld;base64&logoColor=white)
 ![urllib](https://img.shields.io/badge/urllib-yellow?style=for-the-badge)
 
 ## 📈 GitHub Stats
