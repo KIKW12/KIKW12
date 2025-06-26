@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="left">💻 Fourth Semester Computer Science Student @Tec de Monterrey</h3>
+<h3 align="left">💻 Fifth Semester Computer Science Student @Tec de Monterrey</h3>
 
 <h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
 
