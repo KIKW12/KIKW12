@@ -68,7 +68,7 @@
 ## 💼 Projects & Highlights
 
 - **[Neural Harvest](https://www.neuralharvest.com)** - AI-driven, data-driven decision making application.
-- **[Personal Website](https://www.enayala.me/)** - Showcasing my journey and projects.
+- **[Personal Website](https://www.enayala.dev/)** - Showcasing my journey and projects.
 - **[More Projects...](https://github.com/KIKW12?tab=repositories)**
 
 ## 🌐 Connect with Me
