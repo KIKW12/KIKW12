@@ -5,13 +5,15 @@
 <h3 align="left"> 
   
   🌱 **CTO & Co-Founder @[Neural Harvest](https://www.neuralharvest.com)**
+
+  👨🏻‍💻 **Data Scientist @[Satellites on Fire]([https://www.neuralharvest.com](https://www.satellitesonfire.com))**
   
   🌐 **[Personal Portfolio](https://www.enayala.dev/)**
 </h3>
 
 ---
 
-<h3 align="left">💻 Sixth Semester Computer Science Student @Tec de Monterrey</h3>
+<h3 align="left">💻 Seventh Semester Computer Science Student @Tec de Monterrey</h3>
 
 <h3 align="left">📚 Interested in Back-End Development, Cybersecurity and Machine Learning</h3>
 
