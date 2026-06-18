@@ -6,7 +6,7 @@
   
   🌱 **CTO & Co-Founder @[Neural Harvest](https://www.neuralharvest.com)**
 
-  👨🏻‍💻 **Data Scientist @[Satellites on Fire]([https://www.neuralharvest.com](https://www.satellitesonfire.com))**
+  👨🏻‍💻 **Data Scientist @[Satellites on Fire](https://www.satellitesonfire.com)**
   
   🌐 **[Personal Portfolio](https://www.enayala.dev/)**
 </h3>
